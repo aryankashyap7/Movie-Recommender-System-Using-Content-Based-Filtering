@@ -13,7 +13,7 @@ The user’s profile revolves around the user’s preferences and tastes, or bas
 ### Dependencies:
 
 To follow along with this project, it's ideal to have the following library imported into a notebook in an IDE.
-We used the Jupyter Notebook for this project, but any IDE would suffice.
+We are using the Jupyter Notebook for this project, but any IDE would suffice.
 All we need is Pandas and a good knowledge of matrix-Algebra.
 
 - `import pandas as pd`
