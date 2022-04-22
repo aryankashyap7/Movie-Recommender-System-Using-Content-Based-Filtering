@@ -1,6 +1,6 @@
 
 # Movie Recommender System Using Content Based Filtering
-Access the website here: https://mmovie-recommender-system.herokuapp.com/
+Access the website here: https://mmovierecommendersystem.herokuapp.com/
 
 ### Definition of Recommender Systems:
 
